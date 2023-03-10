@@ -1,2 +1,2 @@
 server:
-  retry: 8833
+  port: 8833
